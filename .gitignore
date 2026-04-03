@@ -13,7 +13,9 @@ Thumbs.db
 # Uncomment these if raw scans/recordings get too large for git:
 # assets/scans/*.tiff
 # assets/scans/*.psd
-# recordings/raw/
+
+# Audio recordings (too large for git)
+assets/recordings/
 
 # Sensitive DM-only notes that shouldn't be shared if repo goes public
 # private/

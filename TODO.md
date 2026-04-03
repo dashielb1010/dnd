@@ -33,7 +33,11 @@ Open questions and next steps for the campaign build-out.
 
 ## Infrastructure
 
-- [ ] **Session recording/transcription pipeline** — how to get from audio to structured session logs
+- [x] **Session recording/transcription pipeline** — planned out in `reference/transcription-pipeline.md` (whisperX + pyannote, local, diarized, overlap-aware)
+  - [ ] Install whisperX and test with a sample recording
+  - [ ] Set up Hugging Face token for pyannote models
+  - [ ] First real session transcription dry run
+  - [ ] Build post-processing script (speaker mapping, JSON → markdown)
 - [ ] **Explore structured data formats** — more "database-y" than pure markdown
 - [ ] **Digitization workflow** — process for getting paper/iPad materials into `assets/`
 
