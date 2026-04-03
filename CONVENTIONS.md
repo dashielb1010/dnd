@@ -77,6 +77,19 @@ The `campaign/world-state/` system tracks the evolving state of the game world:
 - Snapshots: `pre-session-01.md`, `pre-session-02.md`, etc.
 - Everything else: lowercase, hyphen-separated (e.g., `elara-brightwood.md`, `waterdeep.md`)
 
+## PC Status Lifecycle
+
+Player characters have a `status` field in their frontmatter:
+
+| Status | Meaning |
+|--------|---------|
+| `active` | Currently being played in the campaign |
+| `retired` | Player abandoned or shelved the character — keep the file for reference but it's a dead-end for the current game |
+| `dead` | Character died in play |
+| `missing` | Narrative status unknown (captured, lost, etc.) |
+
+Retired/dead characters stay in `campaign/party/` — they're part of the campaign history. One-shot characters that weren't carried forward should be marked `retired`.
+
 ## Canon Reference System
 
 The `reference/` directory maintains a lightweight record of canon lore we've researched and the sources behind it. This is **not** a mirror of the Forgotten Realms Wiki — it's a compressed snapshot of what we established and where it came from, so we can reconstruct our reasoning later.

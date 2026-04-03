@@ -6,7 +6,7 @@ class: ""
 level: 1
 background: ""
 alignment: ""
-status: active
+status: active # active | retired | dead | missing
 ---
 
 # Character Name
