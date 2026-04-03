@@ -29,6 +29,8 @@ DND/
 │   ├── handouts/       # Player-facing documents
 │   └── scans/          # Raw photoscans of paper notes & drawings
 └── reference/          # Quick-ref sheets, cheat sheets, lookup tables
+    ├── canon-notes/    # Condensed canon baselines with source citations
+    └── sources/        # Bibliography of sourcebooks, wikis, and references
 ```
 
 ## Templates
@@ -74,3 +76,19 @@ The `campaign/world-state/` system tracks the evolving state of the game world:
 - Sessions: `session-01.md`, `session-02.md`, etc.
 - Snapshots: `pre-session-01.md`, `pre-session-02.md`, etc.
 - Everything else: lowercase, hyphen-separated (e.g., `elara-brightwood.md`, `waterdeep.md`)
+
+## Canon Reference System
+
+The `reference/` directory maintains a lightweight record of canon lore we've researched and the sources behind it. This is **not** a mirror of the Forgotten Realms Wiki — it's a compressed snapshot of what we established and where it came from, so we can reconstruct our reasoning later.
+
+### Bibliography (`reference/sources/bibliography.md`)
+A single file listing all sourcebooks, wikis, novels, and games consulted. Each entry has a short **key** (e.g., `LOI`, `SCAG`, `FRW`) used for inline citations elsewhere.
+
+### Canon Notes (`reference/canon-notes/`)
+Per-topic files that capture:
+- **Hard canon** — established facts with source keys in backticks, e.g., `` `[LOI, FRW]` ``
+- **Canon gaps** — where 5e is silent and we have creative freedom
+- **Homebrew decisions** — the calls we made to fill those gaps, with rationale
+
+### Inline Citations in Location/NPC Files
+When a fact in a world file comes from canon, it doesn't need a citation — the canon-notes file is the audit trail. The location files stay clean and readable; the canon-notes are where you go to check "wait, did I make that up or is that real?"
