@@ -25,6 +25,9 @@ What we established from canon, what's ambiguous, and where homebrew fills the g
 - **1385 DR** — Spellplague. Widespread devastation. `[FRCG]`
 - **1424 DR** — Cape Velen declared independence from Tethyr due to isolation caused by Muranndin. `[FRCG, FRW]`
 - **Shieldmeet** occurs in 1492 DR. A day of open council, treaties, truces, druidic gatherings. `[FRW]`
+- **Duchy of Noromath** ("Legacy of the North") — western Wealdath. Elmanesse territory. Duke Allain "Foxfire" Kevanarial (1370 DR) — refused to declare a ducal seat. Only human settlement: Brost. `[LOI]`
+- **Duchy of Durmista** ("Forest of Twilight") — eastern Wealdath. Suldusk territory. Originally "Duchy of Suldusk", renamed by Lord Rhothomir. Representative: Mirthal Aendryr, who used The Eight's Tree as nominal ducal stronghold. `[LOI]`
+- Both duchies are **duchies in name only** — created by Zaranda as diplomatic formality. Elves govern themselves entirely. `[LOI]`
 
 ## Canon Gaps (5e is silent — DM freedom)
 
@@ -75,4 +78,11 @@ What we established from canon, what's ambiguous, and where homebrew fills the g
 - Vigilantly holding back evil and monstrous forces from Muranndin
 - Living in balance with the wildness — embracing forests and mountains as natural boundaries
 - Philosophy: the wild is not something to be tamed but a force to be respected
+
+### The Ingrevassa Tribe — Suldusk Sub-Tribe
+- A sub-tribe of the Suldusk, living on the Dragon's Neck peninsula near the northern coast
+- Name means roughly "upriverfolk" in their dialect
+- Shanu Danu-Vavich (Galen's PC) is a young druid of this tribe
+- They have their own names for local geography (to be established)
+- Their relationship to the broader Suldusk governance and to the Duchy of Durmista is open for play
 

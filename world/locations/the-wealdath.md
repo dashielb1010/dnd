@@ -4,7 +4,7 @@ type: wilderness
 region: "Dragon's Neck / Tethyr Peninsula"
 population: "Elven tribes, fey, monsters, scattered human settlements"
 government: "Elven tribal governance (Suldusk & Elmanesse); nominal human duchies of Noromath and Durmista"
-notable_npcs: ["Queen Ellesime", "Lord Rhothomir", "Duke Allain 'Foxfire' Kevanarial"]
+notable_npcs: ["Queen Ellesime", "Lord Rhothomir", "Duke Allain 'Foxfire' Kevanarial", "Mirthal Aendryr"]
 tags: [forest, elven, fey, dangerous, current-region]
 ---
 
@@ -22,9 +22,10 @@ Named after the elven hero **Tethir**, the first elven dragonslayer, who in -11,
 |-------|---------|-----------|-------|
 | **Suldusk** | Wild elves (green) | Southeastern reaches (Durmista) | Only surviving original tribe of the forest |
 | **Elmanesse** | Moon elves | Western Wealdath (Noromath) | Refugees from the fall of Myth Drannor |
+| **Ingrevassa** | Wood elves | Northern Dragon's Neck coast | Suldusk sub-tribe; name means roughly "upriverfolk" in their dialect `[HB]` |
 | **Tethir** | — | — | Extinct by 1370 DR; original warrior tribe of Keltormir |
 
-The Suldusk and Elmanesse eventually unified, creating a cohesive elven presence.
+The Suldusk and Elmanesse eventually unified, creating a cohesive elven presence. The **Ingrevassa** are a Suldusk sub-tribe living on the Dragon's Neck peninsula, close to the northern coastline. They have their own names for the local geography (to be established). `[HB]`
 
 ### Other Inhabitants
 - **Fey**: Brownies, centaurs, dryads, satyrs, sprites, atomies, leprechauns
@@ -39,12 +40,25 @@ The Suldusk and Elmanesse eventually unified, creating a cohesive elven presence
 The western half has notably high populations of goblins, hobgoblins, centaurs, and satyrs.
 
 ## Nominal Human Governance
-| Duchy | Elvish Meaning | Territory | Leader (c. 1370 DR) |
-|-------|---------------|-----------|---------------------|
-| **Noromath** | "Legacy of the North" | Western half, east of Trade Way | Duke Allain "Foxfire" Kevanarial (Elmanesse representative) |
-| **Durmista** | "Forest of Twilight" | Southeastern reaches | Lord Rhothomir, Treespeaker of the Wealdath |
 
-Both are "duchies in name only" — elven-controlled territories that humor human political labels.
+Both Wealdath duchies are **duchies in name only** — elven-controlled territories that humor human political labels. Created by Queen Zaranda after the Reclamation as a diplomatic formality to integrate the elves into Tethyr's feudal structure. The "dukes" are liaisons to the Tethyrian court, not rulers in any human sense. The elves care little for these distinctions.
+
+### Duchy of Noromath ("Legacy of the North")
+- **Territory**: Western half of the Wealdath, east of the Trade Way
+- **Borders**: East of County Greenshores (Cape Velen), south of Amn, west of Durmista, north of County Uluran
+- **People**: Home of the **Elmanesse** (moon elves, refugees from Myth Drannor). Suldusk also present after tribal unification. Non-elven population includes goblins, hobgoblins, centaurs, and satyrs.
+- **Leader (c. 1370 DR)**: **Duke Allain "Foxfire" Kevanarial** — Elmanesse representative to the Tethyrian court. Did not consider himself a duke. Refused to declare a ducal seat.
+- **Settlements**: **Brost** ("The Mushroom Village") — a small human trade town on the northern forest outskirts along the Tethir Road. The only real human settlement. `[LOI]`
+
+### Duchy of Durmista ("Forest of Twilight")
+- **Territory**: Eastern half of the Wealdath, southeastern reaches
+- **Borders**: East of Noromath, south of Amn, north of the Starspire Mountains. Borders Spellshire, Varyth, and Rivershire.
+- **People**: Home of the **Suldusk** (wild/green elves), the only surviving original tribe of the forest. Originally named "Duchy of Suldusk" before being renamed by Lord Rhothomir.
+- **Leader (c. 1370 DR)**: **Mirthal Aendryr** — Suldusk representative to the queen. Usually resided in Suldanessellar. When forced to host human nobles, used **The Eight's Tree** (an old safehouse of the Company of Eight) as his nominal ducal stronghold. `[LOI]`
+- **Settlements**: Essentially none beyond **Suldanessellar** itself.
+
+### Elf-Human Friction
+The duchy structure is a constant source of low-grade tension. The elves tolerate titles and borders as diplomatic courtesies while governing entirely on their own terms. Human nobles and merchants who forget this — who treat Noromath or Durmista as "their" territory — learn quickly. This friction is moderated, not resolved, by the formal arrangements. `[DM]`
 
 ## Key Landmarks
 

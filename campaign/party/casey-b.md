@@ -14,7 +14,9 @@ status: active
 ## Backstory Summary
 A half-orc Monk of the Way of the Long Death. A wanderer from the North — hard-eyed, terrifying, and utterly devoid of people skills. Was captured independently and enslaved, carted across the Calim Desert. Escaped during the chaos of session 1, completed a Djinn's three trials alongside Shamsii and Hasseid, and helped rescue a young woman from the Calif's court.
 
-After the escape, Moru stayed on the run with Shamsii, got the young woman to safety, and found their way onto ships as crew. For roughly three years, sailed together, becoming a skilled sailor and watching Shamsii's back.
+After the escape, Moru and Shamsii moved quietly and carefully until they reached Calimport, where they parted ways with the young mother and her Tabaxi lover. Shamsii got them work on a trading vessel, and the two sailed together for roughly three years. Moru — fierce but capable — proved herself at sea.
+
+Their most recent posting was aboard a Tethyrian merchant ship bound for Velen with block salt and dry goods. Three pirate ships attacked simultaneously, killing the captain, first mate, and crew. Moru and Shamsii jumped ship, swimming 10–15 miles back to the coast, washing up on shore exhausted.
 
 ## Goals & Motivations
 - 
