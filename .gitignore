@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Large media originals (track with Git LFS or keep out entirely)
+# Uncomment these if raw scans/recordings get too large for git:
+# assets/scans/*.tiff
+# assets/scans/*.psd
+# recordings/raw/
+
+# Sensitive DM-only notes that shouldn't be shared if repo goes public
+# private/
